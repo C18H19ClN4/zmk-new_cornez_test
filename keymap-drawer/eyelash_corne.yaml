@@ -42,7 +42,7 @@ layers:
   - {t: ',', s: <}
   - {t: ., s: '>'}
   - {t: /, s: '?'}
-  - BT CLR ALL
+  - {t: '$$mdi:backup-restore$$', type: bootloader}
   - $$mdi:apple-keyboard-control$$
   - SYMBOL
   - {t: '$$mdi:keyboard-space$$', h: Fn}
