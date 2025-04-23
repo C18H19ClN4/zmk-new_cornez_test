@@ -42,7 +42,7 @@ layers:
   - {t: ',', s: <}
   - {t: ., s: '>'}
   - {t: /, s: '?'}
-  - $$mdi:keyboard-esc$$
+  - BT CLR ALL
   - $$mdi:apple-keyboard-control$$
   - SYMBOL
   - {t: '$$mdi:keyboard-space$$', h: Fn}
@@ -227,8 +227,8 @@ layers:
   - BT CLR ALL
   - {t: '$$mdi:backup-restore$$', type: bootloader}
   - '&studio_unlock'
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - BT CLR ALL
+  - BT CLR ALL
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:keyboard-space$$', h: QWERTY, type: held}
