@@ -42,7 +42,7 @@ layers:
   - {t: ',', s: <}
   - {t: ., s: '>'}
   - {t: /, s: '?'}
-  - {t: '$$mdi:backup-restore$$', type: bootloader}
+  - $$mdi:keyboard-esc$$
   - $$mdi:apple-keyboard-control$$
   - SYMBOL
   - {t: '$$mdi:keyboard-space$$', h: Fn}
